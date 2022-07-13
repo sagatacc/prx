@@ -1,7 +1,7 @@
 Bücher für die Geistes- und Sozialwissenschaften im 
 Open Access – Vorwort der Herausgeberinnen zum 
 Projekt OGeSoMo
-Dorothee Graf, Yuliya Fadeeva, Katrin Falkenstein-Feldhoff 
+Dorothee Graf, Yuliya Fadeeva, Katrin Falkenstein-Feldhoff, John Smith
 
 Der vorliegende Sammelband stellt abschließend das Projekt und die Ergeb-
 nisse von OGeSoMo vor. Das BMBF-geförderte Projekt OGeSoMo1 hatte 
@@ -27,3 +27,5 @@ Duisburg-Essen (UDE) mehr als 40 Monografien und Sammelbände durch OA
 weltweit frei zugänglich für die Wissenschaft und die interessierte Öffentlich-
 keit im Sinne der citizen science. Als letzter Projekttitel erscheint auch der 
 vorliegende Band im OA.
+
+Hello World. 
